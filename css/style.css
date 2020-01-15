@@ -1,0 +1,50 @@
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/521111.jpg);
+    }
+header{
+        margin-left: 348px;
+        margin-right: 348px;
+}
+img {
+    margin-left: 180px;
+    margin-bottom: 40px;
+}
+h3 {
+    margin-left: 340px;
+    margin-right: 100px;
+    margin-top: -150px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    }
+
+
+.ricerca {
+margin-bottom: : 50px;
+border-radius: 20px
+
+}
+main{
+    background-color: lightgrey;
+    padding: 0px;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin: 350px;
+    margin-top: 20px;
+    border-bottom: none;
+}
+p{
+    display: inline-block;
+    padding: 5px;
+}
+.check{
+    padding-left: 4px;
+    border-bottom: 2px solid black
+}
+#colour {
+    background-color: grey;
+}
+span{
+ background-color: red;
+ border-radius: 50%;
+}
